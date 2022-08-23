@@ -10,9 +10,10 @@
 ### 🛠 &nbsp; um pouquinho do que sei
 
 - 🌐 &nbsp;
-  ![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=563D7C)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
