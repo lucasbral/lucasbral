@@ -4,10 +4,10 @@
 
 ### 💻 &nbsp;About me
 
-- 🎓 &nbsp; Eletronic Engeneer.
+- 🎓 &nbsp; Electronic technician and engineer. Master in Systems Engineering.
 
 
-### 🛠 &nbsp; um pouquinho do que sei
+### 🛠 &nbsp; My main tools
 
 - 🌐 &nbsp;
   ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
@@ -22,7 +22,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
  
 
-##  🤝🏻 &nbsp; Contato
+##  🤝🏻 &nbsp; Contact
 
 <p align="center">
 <a href="https://lucasbral.github.io/"><img src="https://img.shields.io/badge/-https://lucasbral.github.io/-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
@@ -30,8 +30,6 @@
 <a href="mailto:lucasdecarvalhosobral@gmail.com"><img src="https://img.shields.io/badge/-lucasdecarvalhosobral@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ## 🔧 &nbsp; Stats
-
-  ![Lucasbral GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbral&show_icons=true&theme=radical)
 
 
   <a href="https://github.com/lucasbral/github-readme-stats">
