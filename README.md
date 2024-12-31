@@ -21,9 +21,6 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
  
-- 🔧 &nbsp;
-  ![Lucasbral GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbral&show_icons=true&theme=radical)
-
 
 ##  🤝🏻 &nbsp; Contato
 
@@ -32,6 +29,6 @@
 <a href="https://www.linkedin.com/in/lucasbral/"><img src="https://img.shields.io/badge/-Lucas%20Sobral-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:lucasdecarvalhosobral@gmail.com"><img src="https://img.shields.io/badge/-lucasdecarvalhosobral@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-## &nbsp; Stats
+## 🔧 &nbsp; Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbral)](https://github.com/lucasbral/github-readme-stats)
+  ![Lucasbral GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbral&show_icons=true&theme=radical)
