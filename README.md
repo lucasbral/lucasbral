@@ -1,10 +1,10 @@
 ### Opa ! 👋
 
-## Lucas aqui !
+## Lucas here !
 
-### 💻 &nbsp;Sobre mim 
+### 💻 &nbsp;About me
 
-- 🎓 &nbsp; Técnico e engenheiro eletrônico se aprofundando mais um pouco em programação.
+- 🎓 &nbsp; Eletronic Engeneer.
 
 
 ### 🛠 &nbsp; um pouquinho do que sei
