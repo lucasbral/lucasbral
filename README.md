@@ -25,9 +25,8 @@
 ##  🤝🏻 &nbsp; Contact
 
 <p align="center">
-<a href="https://lucasbral.github.io/"><img src="https://img.shields.io/badge/-https://lucasbral.github.io/-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://lucasbral.github.io/home/"><img src="https://img.shields.io/badge/-https://lucasbral.github.io/-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/lucasbral/"><img src="https://img.shields.io/badge/-Lucas%20Sobral-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:lucasdecarvalhosobral@gmail.com"><img src="https://img.shields.io/badge/-lucasdecarvalhosobral@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ## 🔧 &nbsp; Stats
 
