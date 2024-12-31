@@ -22,7 +22,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
  
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Lucasbral GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbral&show_icons=true&theme=radical)
 
 
 ##  🤝🏻 &nbsp; Contato
