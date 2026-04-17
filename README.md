@@ -60,5 +60,5 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasbral/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://lucasbral.github.io/home/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://lucasbral.github.io"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 </p>
