@@ -10,7 +10,7 @@
 
 ### 💻 &nbsp; About me
 
-- 🔭 &nbsp; I’m currently focused on building robust **Data Engineering** pipelines and managing multi-tenant SaaS platforms like **Intelichat**.
+- 🔭 &nbsp; I’m currently focused on building robust **Data Engineering** pipelines and managing multi platforms.
 - 🌱 &nbsp; Constantly exploring modern tech stacks, currently deep diving into **Python (FastAPI, Pandas)**, **Go**, and tools like **Marimo** and **UV**.
 - 🗄️ &nbsp; Experienced in architecture and optimization of complex databases, including **Oracle, PostgreSQL, and DuckDB**.
 
